@@ -61,8 +61,6 @@ You can talk to other Ghost users and developers in our [forum](https://forum.gh
 
 New releases are announced on the [dev blog](http://dev.ghost.org/tag/releases/). You can subscribe by email or follow [@TryGhost_Dev](https://twitter.com/tryghost_dev) on Twitter, if you prefer your updates bite-sized and facetious. :saxophone::turtle:
 
-&nbsp;
-
 
 # Copyright & License
 
