@@ -15,6 +15,8 @@ The project is maintained by a non-profit organisation called the **Ghost Founda
 
 **NOTE: If you’re stuck, can’t get something working or need some help, please head on over and join our [forum](https://forum.ghost.org/) rather than opening an issue.**
 
+I am just writing this here to test!
+
 &nbsp;
 
 ![Ghost](https://user-images.githubusercontent.com/120485/28764244-344050c0-75d5-11e7-9314-45bc4177164e.png)
