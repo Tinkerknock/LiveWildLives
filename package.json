@@ -21,7 +21,7 @@
     "start": "node index",
     "dev": "DEBUG=ghost:* grunt dev",
     "test": "grunt validate --verbose",
-    "setup": "yarn install && knex-migrator init && grunt symlink && grunt init || true",
+    "setup": "knex-migrator init && grunt symlink && grunt init",
     "lint": "grunt lint"
   },
   "engines": {
@@ -96,7 +96,7 @@
     "xml": "1.0.1"
   },
   "optionalDependencies": {
-    "sqlite3": "4.0.0"
+    "sqlite3": "^4.0.0"
   },
   "devDependencies": {
     "eslint": "4.19.0",
