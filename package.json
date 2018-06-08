@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "postinstall": "knex-migrator init --mgpath node_modules/ghost",
+    "setup": "knex-migrator init --mgpath node_modules/ghost",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
