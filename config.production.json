@@ -1,0 +1,9 @@
+{
+  "database": {
+    "client": "pg",
+    "debug": false
+  },
+  "paths": {
+    "contentPath": "content"
+  }
+}
