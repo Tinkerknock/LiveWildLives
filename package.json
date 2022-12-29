@@ -124,7 +124,7 @@
     "mocha": "4.1.0",
     "mock-knex": "0.4.0",
     "nock": "9.2.3",
-    "rewire": "3.0.2",
+    "rewire": "6.0.0",
     "should": "13.2.1",
     "should-http": "0.1.1",
     "sinon": "4.4.6",
